@@ -1,0 +1,7 @@
+package com.liango.thread;
+
+public class Hello {
+    public String sayHello(String name) {
+        return "Hello " + name;
+    }
+}
